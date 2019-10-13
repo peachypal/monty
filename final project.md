@@ -1,5 +1,5 @@
 
-This program is designed to ask its users to determine the 'adequacy' of five given sentences, where every sentence has a mistake in case agreement. The main idea is to find out in what sentences users fail to identify these mistakes the most. 
+This program is designed to ask its users to determine the 'adequacy' of five given sentences, where every sentence has a mistake in it. The main idea is to find out in what sentences users fail to identify these mistakes the most. 
 
 The program then saves the answers, and creates a bar plot based on the acquired information. The plot displays the amount of all users' incorrect answers (y-axis) given for each sentence (x-axis). 
 
